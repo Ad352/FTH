@@ -25,3 +25,7 @@ Weak Field FTH.ipynb	NumPy continuum: N=10^5, err=10^{-12}	GR-limit verified
 [lcparam_data.csv / pantheon_lowz.csv]	Processed Pantheon+ low-z (157 SNIa)	Dipol Tab3 proxy
 
 
+Requirements: numpy pandas matplotlib sympy scipy astropy
+
+Repo Status: Peer-review ready. Contributions: Issues/PRs welcome (falsification prioritized).
+Last Update: March 2026. Contact: Ad352 (FTH Collaboration).
